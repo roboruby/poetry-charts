@@ -1,3 +1,5 @@
+> **Archived.** Development of poetry-charts continues in the Poetry monorepo at [roboruby/poetry](https://github.com/roboruby/poetry), under [`gems/poetry-charts`](https://github.com/roboruby/poetry/tree/main/gems/poetry-charts). This repository keeps the history and tags up to 0.1.5 and is read-only.
+
 # poetry-charts
 
 poetry's chart tier: the shadcn chart surface as **server-rendered SVG**.
